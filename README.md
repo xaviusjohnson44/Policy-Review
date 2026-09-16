@@ -1,6 +1,6 @@
 ## Information Security Policy Consultation Report
 
-[Download a Print-Ready PDF Version of this Consultation Report](link-to-your-uploaded-pdf.pdf)
+[Download a Print-Ready PDF Version of this Consultation Report](https://github.com/xaviusjohnson44/Policy-Review/blob/main/Policy%20Reveiw.pdf)
 
 ## Consulting Note on Discretion
 
